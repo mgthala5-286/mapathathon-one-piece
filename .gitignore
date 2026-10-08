@@ -1,0 +1,7 @@
+# Reproducible raw imagery and API response cache.
+imagery_crop/
+stac-search.json
+
+# Python cache files.
+__pycache__/
+*.py[cod]
